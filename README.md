@@ -1,5 +1,6 @@
 OpenGL Fireworks
 ========================================
+Concepts: instance rendering
 
 **Building and Running**
 ===========================================
