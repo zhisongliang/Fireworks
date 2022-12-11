@@ -11,7 +11,10 @@ instance rendering, particle systems
 
 Demo:
 
-![](https://github.com/zhisongliang/Fireworks/blob/main/resources/fireworks.gif)
+![](https://github.com/zhisongliang/Fireworks/blob/main/resources/fireworks.gif) </br>
+(There are traces of particles (little tails of rockets) which "glow out" in time. 
+</br> The resolution of the demo gif is not high enough to show it. 
+Run the project and check it out!)
 
 **Building and Running**
 ===========================================
