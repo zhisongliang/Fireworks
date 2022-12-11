@@ -1,10 +1,16 @@
 OpenGL Fireworks
 ========================================
-Library used: glad, glfw, glm
+This project generate a really awesome fireworks effect. </br>
 
-Concepts used: instance rendering, particle systems
+Library used: </br>
+glad, glfw, glm
+</br></br>
+Concepts used:</br>
+instance rendering, particle systems
+</br></br>
 
 Demo:
+
 ![](https://github.com/zhisongliang/Fireworks/blob/main/resources/fireworks.gif)
 
 **Building and Running**
