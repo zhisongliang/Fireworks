@@ -1,6 +1,12 @@
 OpenGL Fireworks
 ========================================
-Concepts: instance rendering
+Library used: glad, glfw, glm
+
+Concepts used: instance rendering, particle systems
+
+Demo:
+![]
+(https://github.com/zhisongliang/Fireworks/blob/main/resources/fireworks.gif)
 
 **Building and Running**
 ===========================================
